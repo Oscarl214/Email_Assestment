@@ -1,0 +1,29 @@
+{
+  "name": "react-email-starter",
+  "version": "1.0.0",
+  "description": "Email Mock",
+  "main": "index.js",
+  "scripts": {
+    "dev": "email dev",
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oscarl214/Email_Assestment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oscarl214/Email_Assestment/issues"
+  },
+  "homepage": "https://github.com/Oscarl214/Email_Assestment#readme",
+  "devDependencies": {
+    "@react-email/preview-server": "^4.2.11",
+    "react-email": "4.2.11"
+  },
+  "dependencies": {
+    "@react-email/components": "0.5.3",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  }
+}

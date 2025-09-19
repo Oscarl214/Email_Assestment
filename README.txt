@@ -60,7 +60,7 @@ Acid on Email Preview Link: https://app.emailonacid.com/shared-preview/CS8yKCC5x
 
 # Mobile View
 
-![](https://github.com/Oscarl214/Email_Assestment/blob/main/MobileView.gif)
+(https://github.com/Oscarl214/Email_Assestment/blob/main/MobileView.gif
 
 ---
 

@@ -58,7 +58,9 @@ I previewed and validated the layout in desktop and mobile environments to ensur
 
 Acid on Email Preview Link: https://app.emailonacid.com/shared-preview/CS8yKCC5xY
 
+# Mobile View
 
+(https://github.com/Oscarl214/Email_Assestment/blob/main/MobileView.gif
 
 ---
 

@@ -19,8 +19,11 @@
 Biggest diffrence between desktop and mobile view, is the services module, going 
 from two rows in desktop to one single stacked column, will set this diffrence to show via css.
 
-My accent color grabbed from psd file:
+My accent color grabbed from psd file using the EyeDroper Tool:
 #a8b34d
+
+My footer color grabbed from the psd file using the EyeDroper Tool:
+#7a756f
 
 
 ## Approach & Goals
